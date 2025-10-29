@@ -47,7 +47,7 @@ Il met l’accent sur l’importance de la rigueur statistique et de la compréh
 
 - 📘 *Impact Evaluation in Practice (Second Edition)* – Gertler et al.  
   [Disponible gratuitement ici](https://openknowledge.worldbank.org/entities/publication/ca2c7887-fb72-54aa-a93f-146ce7767760)
--[onlinestatbook](https://onlinestatbook.com/2/)
+-  [onlinestatbook](https://onlinestatbook.com/2/)
 - 🌐 [World Bank DIME (Development Impact Evaluation)](https://www.worldbank.org/en/research/dime)
 - 🎓 [J-PAL – Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/)
 - 🧮 [3ie – International Initiative for Impact Evaluation](https://www.3ieimpact.org/)
