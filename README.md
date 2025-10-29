@@ -1,4 +1,4 @@
-# 📊 Evaluating Impact in Low- and Middle-Income Countries
+# Evaluating Impact in Low- and Middle-Income Countries
 
 **Plateforme :** [edX – World Bank Open Learning Campus](https://learning.edx.org/course/course-v1:WBGx+IEM01x+1T2022/home)  
 **Cours :** Impact Evaluation Methods with Applications in Low- and Middle-Income Countries  
@@ -7,16 +7,16 @@
 
 ---
 
-## 🧭 Description du cours
+##  Description du cours
 
 Ce cours introduit les **méthodes d’évaluation d’impact** utilisées pour mesurer les effets causaux des politiques et programmes de développement dans les **pays à revenu faible et intermédiaire (PRFI)**.  
 Il met l’accent sur l’importance de la rigueur statistique et de la compréhension du contrefactuel dans la prise de décision fondée sur des preuves (*evidence-based policy*).
 
-> 🎓 *Ce programme fait partie des cours du World Bank Group visant à renforcer les capacités analytiques des praticiens du développement.*
+>  *Ce programme fait partie des cours du World Bank Group visant à renforcer les capacités analytiques des praticiens du développement.*
 
 ---
 
-## 🎯 Objectifs d’apprentissage
+##  Objectifs d’apprentissage
 
 - Comprendre le **rôle de l’évaluation d’impact** dans les politiques publiques.  
 - Identifier les principales **méthodes expérimentales et quasi-expérimentales**.  
@@ -26,7 +26,7 @@ Il met l’accent sur l’importance de la rigueur statistique et de la compréh
 
 ---
 
-## 🧩 Contenu du cours
+##  Contenu du cours
 
 | Module | Titre | Thèmes abordés |
 |:--|:--|:--|
@@ -43,7 +43,7 @@ Il met l’accent sur l’importance de la rigueur statistique et de la compréh
 
 ---
 
-## 📚 Ressources clés
+##  Ressources clés
 
 - 📘 *Impact Evaluation in Practice (Second Edition)* – Gertler et al.  
   [Disponible gratuitement ici](https://openknowledge.worldbank.org/entities/publication/ca2c7887-fb72-54aa-a93f-146ce7767760)
@@ -67,7 +67,7 @@ Il met l’accent sur l’importance de la rigueur statistique et de la compréh
 
 
 
-## 🏆 Certification
+##  Certification
 
 | Détail | Information |
 |--------|--------------|
@@ -77,7 +77,7 @@ Il met l’accent sur l’importance de la rigueur statistique et de la compréh
 
 ---
 
-## 🧩 Mots-clés
+##  Mots-clés
 
 `#ImpactEvaluation` `#Econometrics` `#WorldBank` `#RCT` `#Regression` `#DifferenceInDifferences` `#DevelopmentPolicy` `#edX`
 
